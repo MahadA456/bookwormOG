@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": "3cdb",
+      "email": "user@nextmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "b36c",
+      "email": "user@nextmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "80ca",
+      "email": "demo@internee.pk",
+      "password": "123"
+    },
+    {
+      "id": "c27c",
+      "email": "mahadalam3@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "f5a1",
+      "email": "mahadalam3@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "2ef5",
+      "email": "user3@nextmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "3381",
+      "email": "user22@nextmail.com",
+      "password": "123"
+    },
+    {
+      "id": "fdba",
+      "email": "arham12@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "0198",
+      "email": "arham@gmail123",
+      "password": "123"
+    },
+    {
+      "id": "738b",
+      "email": "uzair123@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ec61",
+      "email": "areesh12@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "f555",
+      "email": "admin@example.com",
+      "password": "admin123"
+    },
+    {
+      "id": "e2e3",
+      "email": "zohaib99@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "983f",
+      "email": "areeshcutie@gmail.com",
+      "password": "areeshstargazer"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "books": [
+    {
+      "id": "2",
+      "title": "Book Two",
+      "author": "Author Two",
+      "year": 2002,
+      "genre": "Fiction"
+    },
+    {
+      "id": "0fea",
+      "title": "blind lake",
+      "author": "JK ROWLING",
+      "year": 2018,
+      "genre": "Non-fiction"
+    },
+    {
+      "id": "0ed0",
+      "title": "sir zeehsna vue skills",
+      "author": "JK ROWLING",
+      "year": 2024,
+      "genre": "Science Fiction"
+    },
+    {
+      "id": "8d68",
+      "title": "neqa life",
+      "author": "JK ROWLING",
+      "year": 1919,
+      "genre": "Fantasy"
+    }
+  ]
+}
